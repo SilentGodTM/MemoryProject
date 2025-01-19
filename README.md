@@ -1,5 +1,5 @@
 ## Скачать APK
-[Скачать приложение]([./app/app-debug(2)(1).apk](https://github.com/SilentGodTM/MemoryProject/blob/main/app/app-debug%20(2)%20(1).apk))
+[Скачать приложение]([./app/app-debug(2)(1).apk)
 
 ## Демонстрация
 
